@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-02T06:38:12.871Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="fqhd3vVG7BwEqVa-XgsT" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-02T06:41:29.737Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="wimQvCOkoy9B5InxIXmp" version="15.8.8" type="github">
   <diagram id="7QPhP5ptbd7fljf6I2zj" name="Page-1">
     <mxGraphModel dx="1125" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,8 +48,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wc5Gg6TmFj6z9xFuZS4I-21" value="aws Route53" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="190" width="80" height="10" as="geometry" />
+        <mxCell id="wc5Gg6TmFj6z9xFuZS4I-21" value="Route53" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="131" y="197" width="80" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="wc5Gg6TmFj6z9xFuZS4I-23" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=openThin;elbow=vertical;startArrow=none;endFill=0;strokeColor=#545B64;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="232.5" y="247" as="sourcePoint" />
+            <mxPoint x="232.5" y="266" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="232.5" y="230" />
+              <mxPoint x="232.5" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wc5Gg6TmFj6z9xFuZS4I-24" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.elasticLoadBalancing;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="206.92" y="270" width="53.08" height="50.87" as="geometry" />
+        </mxCell>
+        <mxCell id="wc5Gg6TmFj6z9xFuZS4I-25" value="ELB/ALB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="126.92" y="290.43" width="80" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
